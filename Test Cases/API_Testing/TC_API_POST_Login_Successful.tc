@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_POST_Login_Successful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7bb3673-5228-4b00-8dd7-4ad5af402595</testCaseGuid>
+</TestCaseEntity>

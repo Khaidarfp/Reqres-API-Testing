@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_POST_Login_Unsuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af0eddbb-5017-49d4-8054-53fa061d3922</testCaseGuid>
+</TestCaseEntity>
